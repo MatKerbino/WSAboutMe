@@ -1,0 +1,45 @@
+[
+    {
+        "title": "Projeto 1",
+        "description": "Descrição do Projeto 1",
+        "link": "https://link-do-projeto1.com",
+        "placeholder": "Link do Projeto 1",
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "title": "Projeto 2",
+        "description": "Descrição do Projeto 1",
+        "link": "https://link-do-projeto1.com",
+        "placeholder": "Link do Projeto 1",
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "title": "Projeto 3",
+        "description": "Descrição do Projeto 1",
+        "link": "https://link-do-projeto1.com",
+        "placeholder": "Link do Projeto 1",
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "title": "Projeto 4",
+        "description": "Descrição do Projeto 1",
+        "link": "https://link-do-projeto1.com",
+        "placeholder": "Link do Projeto 1",
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "title": "Projeto 5",
+        "description": "Descrição do Projeto 1",
+        "link": "https://link-do-projeto1.com",
+        "placeholder": "Link do Projeto 1",
+        "image": "https://via.placeholder.com/150"
+    },
+    {
+        "title": "Projeto 6",
+        "description": "Descrição do Projeto 1",
+        "link": "https://link-do-projeto1.com",
+        "placeholder": "Link do Projeto 1",
+        "image": "https://via.placeholder.com/150"
+    }
+]
+
